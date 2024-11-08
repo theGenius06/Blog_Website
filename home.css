@@ -1,0 +1,16 @@
+@import "header.css";
+@import "footer.css";
+@import "sidebar.css";
+@import "main.css";
+@import "blog-post.css";
+@import "navbar.css";
+
+
+@media all and (max-width: 995px) {
+
+    .blog-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+

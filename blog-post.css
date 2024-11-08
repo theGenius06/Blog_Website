@@ -1,0 +1,9 @@
+.picture-design {
+    float: left;
+    padding: 1em 1em 1em 5em;
+}
+
+#about-me {
+    background-color: white;
+    font-weight: bold;
+}
